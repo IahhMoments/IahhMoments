@@ -59,10 +59,6 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IahhMoments&theme=default&hide_border=true&background=ffffff&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakNum=333333&sideNums=333333&currStreakLabel=007AFF&sideLabels=333333&dates=666666" alt="Streak Stats" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IahhMoments&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=007AFF&text_color=333333&langs_count=8" alt="Top Languages" width="48%" />
-</div>
-
 <br />
 
 ### 🔍 Open to Opportunities
@@ -71,12 +67,10 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
 - **Preferences**: Startups, hybrid or fully remote roles, open to relocation (currently in Virginia, US)
 - **Availability**: Ready to join a team where I can grow, contribute, and build impactful user experiences
 
-Feel free to reach out via LinkedIn or email — let's chat about frontend, self-taught journeys, or potential collaborations!
+Feel free to reach out via LinkedIn or email!
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IahhMoments&label=Profile+Views&color=007AFF&style=flat" alt="Profile views" />
-  <br /><br />
   Thanks for visiting — building the web, one component at a time 🚀
 </div>
