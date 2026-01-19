@@ -40,7 +40,7 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
 - 🔭 Currently leveling up: **Next.js**, **Redux**, **WordPress** customization, and **Figma** for design-to-code workflows
 - 🌱 Deepening knowledge in: React ecosystem, state management, component libraries, and performance optimization
 - 💬 Ask me about: **React**, **Tailwind CSS**, responsive design, accessibility basics, or self-learning strategies
-- ⚡ Fun fact: Balancing a non-tech day job while consistently shipping personal projects — discipline > motivation
+- ⚡ Fun fact: Balancing a non-tech day job while consistently shipping personal projects, vlogging, and day trading. Its a lot...
 
 ---
 
@@ -56,7 +56,7 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IahhMoments&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=007AFF&text_color=333333&icon_color=007AFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IahhMoments&theme=default&hide_border=true&background=ffffff&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakNum=333333&sideNums=333333&currStreakLabel=007AFF&sideLabels=333333&dates=666666" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IahhMoments&theme=default&hide_border=true&background=ffffff&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakNum=333333&sideNums=333333&currStreakLabel=007AFF&sideLabels=333333&dates=666666" width="48%" />
 </div>
 
 <br />
