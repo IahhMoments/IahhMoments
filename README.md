@@ -84,15 +84,15 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>
-        <sub>Next.js (learning)</sub>
+        <sub>Next.js</sub>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/><br>
-        <sub>Redux (learning)</sub>
+        <sub>Redux</sub>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br>
-        <sub>Figma (learning)</sub>
+        <sub>Figma</sub>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>
