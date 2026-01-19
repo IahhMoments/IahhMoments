@@ -12,7 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
+**IahhMoments/IahhMoments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=32&duration=4000&pause=1500&color=007AFF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Isaiah+Hill;Frontend+Developer;Self-Taught+%7C+Passionate+Builder" alt="Typing SVG" />
 </div>
@@ -47,7 +58,52 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,figma,git,github,vscode&perline=8" alt="Tech Stack" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br>
+        <sub>JavaScript</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br>
+        <sub>React</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br>
+        <sub>HTML</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>
+        <sub>CSS</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br>
+        <sub>Tailwind CSS</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>
+        <sub>Next.js (learning)</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/><br>
+        <sub>Redux (learning)</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br>
+        <sub>Figma (learning)</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>
+        <sub>Git</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>
+        <sub>VS Code</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -56,7 +112,7 @@ I focus on clean code, modern design principles, and turning ideas into intuitiv
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IahhMoments&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=007AFF&text_color=333333&icon_color=007AFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IahhMoments&theme=default&hide_border=true&background=ffffff&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakNum=333333&sideNums=333333&currStreakLabel=007AFF&sideLabels=333333&dates=666666" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IahhMoments&theme=default&hide_border=true&background=ffffff&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakNum=333333&sideNums=333333&currStreakLabel=007AFF&sideLabels=333333&dates=666666" alt="Streak Stats" width="48%" />
 </div>
 
 <br />
